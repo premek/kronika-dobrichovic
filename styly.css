@@ -1,0 +1,22 @@
+BODY {  font-family:  'Trebuchet MS',Arial, sans-serif;
+	font-size: 13px;
+	background-color : #EEEEEE;
+	color : Black;
+	margin-top : 20px;
+	font-size : 20px;
+}
+.menu
+{       font-family:  'Trebuchet MS',Arial, sans-serif;
+	font-size: 13px;
+	text-decoration: underline;
+	color : Navy;
+}
+.menupres
+{
+	text-decoration: underline;
+	color : #FF0066;
+}
+TABLE {font-family:  'Trebuchet MS',Arial, sans-serif;
+	font-size: 13px;
+}
+
